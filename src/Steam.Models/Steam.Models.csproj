@@ -3,12 +3,19 @@
   <PropertyGroup>
     <Description>Contains classes that are used as data transports between various application, business, and data layers for Steam related APIs.</Description>
     <VersionPrefix>3.0.4</VersionPrefix>
-    <Authors>Justin Skiles</Authors>
+    <Authors>Justin Skiles, Mark Kozlov</Authors>
     <AssemblyName>Steam.Models</AssemblyName>
     <PackageId>Steam.Models</PackageId>
-    <PackageProjectUrl>https://github.com/babelshift/Steam.Models</PackageProjectUrl>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/babelshift/Steam.Models/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MarkKoz/Steam.Models</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/MarkKoz/Steam.Models/dev/LICENSE</PackageLicenseUrl>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyVersion>3.0.5.0</AssemblyVersion>
+    <FileVersion>3.0.5.0</FileVersion>
+    <Version>3.0.5</Version>
+    <RepositoryUrl>https://github.com/MarkKoz/Steam.Models</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Added PublishedFileDetails model.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
